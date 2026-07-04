@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Vercel
+.vercel
+
+# Original unoptimized photo (the compressed me.jpg is what ships)
+me.jpeg
+
+# Dependencies (not used, but just in case)
+node_modules
